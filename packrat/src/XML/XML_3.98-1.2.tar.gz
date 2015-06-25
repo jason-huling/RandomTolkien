@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <!-- Bootstrap styles -->
+   <link rel="stylesheet" href="/assets/css/vendor/bootstrap/bootstrap.03cbc5dc.css">
+
+   <!-- Grove Styles (switch for different color schemes, e.g. "styles-cleanblue.css") -->
+   <link rel="stylesheet" href="/assets/css/styles-blue.5422daba.css" id="grove-styles" type="text/css">
+
+   <!-- Site Styles -->
+   <link href="/assets/css/site.16a10ae6.css" rel="stylesheet" type="text/css">
+   <!--[if lt IE 9]>
+   <link rel="stylesheet" href="/assets/css/ie8.8c121429.css">        
+   <script src="/assets/js/vendor/google/html5-3.6-respond-1.1.0.min.3aca5c0b.js"></script>
+   <![endif]-->
+</head>
+
+<body>
+   <nav class="navbar navbar-default grove-navbar" role="navigation" id="topnav">
+      <div class="container">
+         <div class="navbar-header">
+            <a href="#" class="grove-toggle" data-toggle="collapse" data-target=".grove-nav">
+               <i class="glyphicons show_lines"></i>
+            </a>
+            <a href="http://mran.revolutionanalytics.com" class="navbar-brand">
+               <img src="/assets/img/rLogo.ed89a550.png" alt=""> MRAN - Managed R Archive Network
+            </a>
+         </div>
+      </div>
+   </nav>
+   <!-- page title -->
+   <div class="widewrapper pagetitle strong-highlight" id="pagetitle">
+   <div class="container">
+      <h1>404 - Not Found <small></small></h1>
+      
+   </div>
+</div>
+   <div class="widewrapper">
+      <div class="container content" role="main">
+         <div>
+            
+<div class="container">
+<h3>Page Not Found</h3>
+            <p>
+                Oops! The page you tried to reach does not exist.
+            </p>
+        <br>
+            <p>
+                <a class="btn btn-primary" href="http://mran.revolutionanalytics.com">Go to Home Page</a>
+            </p>
+</div>
+         </div>
+      </div>
+   </div>
+</body>
+
+</html>
